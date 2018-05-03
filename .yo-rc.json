@@ -16,7 +16,6 @@
     "prodDatabaseType": "mysql",
     "searchEngine": "elasticsearch",
     "enableSwaggerCodegen": "true",
-    "messageBroker": "kafka",
     "buildTool": "maven",
     "enableSocialSignIn": false,
     "useSass": true,
